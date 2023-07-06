@@ -16,7 +16,7 @@
 
 
 
-**### Day 2: July 6, Thu
+### Day 2: July 6, Thu
 
 **Today's Progress: multithreading,async functions and promises in JS.
 
