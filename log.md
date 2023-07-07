@@ -14,6 +14,7 @@
 3. https://leetcode.com/submissions/detail/986526989/
 4. https://leetcode.com/submissions/detail/986516917/
 
+**
 
 
 ### Day 2: July 6, Thu
@@ -27,3 +28,17 @@
 2. [Async fn and promises](https://harkirat.classx.co.in/video/103?courseId=2&ytFlag=0&isFolderCourse=1)
 
 **
+
+
+### Day 2: July 7, Fri
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
