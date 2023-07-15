@@ -2,7 +2,7 @@
 
 
 
-### Day 1: July 5, Wed
+### Day 1: July 5
 
 **Today's Progress**: Leant basics of javascript and solved 3 leetcode problems.
 
@@ -17,7 +17,7 @@
 **
 
 
-### Day 2: July 6, Thu
+### Day 2: July 6
 
 **Today's Progress: multithreading,async functions and promises in JS.
 
@@ -30,7 +30,223 @@
 **
 
 
-### Day 2: July 7, Fri
+### Day 3: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+### Day 4: July 8
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+### Day 5: July 9
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+### Day 6: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+### Day 7: July 10
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+### Day 8: July 11
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+### Day 9: July 12
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+### Day 10: July 13
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+
+### Day 11: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+
+### Day 12: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+### Day 13: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+### Day 14: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+### Day 15: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+
+### Day 16: July 7
+
+**Today's Progress: Basics of c++.
+
+**Thoughts**  Tomorrow is my internal exam for c++ so I quickly learnt some basics of c++ and solved qs but I don't think I have done enough practise to nail it, anyways I'll try to be back on track from tomorrow.
+
+**Link(s) to work**
+1. [C++ tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [Few hackerrak qs]
+
+**
+
+
+
+
+### Day 17: July 7
 
 **Today's Progress: Basics of c++.
 
